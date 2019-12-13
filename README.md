@@ -8,6 +8,6 @@ Hello World
  
 Azure deployment: https://docs.microsoft.com/en-us/azure/app-service/containers/how-to-configure-python
 
-<p><module> is the path to the folder that contains wsgi.py</p>
-<p>gunicorn --bind=0.0.0.0 --timeout 600 <module>.wsgi</p>
+<p>&ltmodule&gt is the path to the folder that contains wsgi.py</p>
+<p>gunicorn --bind=0.0.0.0 --timeout 600 &ltmodule&gt.wsgi</p>
 </body>
