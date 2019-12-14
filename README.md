@@ -1,5 +1,5 @@
 # djlogin: https://loginpython.azurewebsites.net/
-session-caching-login-logout
+azure-django-deployment
 
 <h1> Django Login Page with Session and cookies </h1>
 <h2>Functions<h2>
