@@ -1,9 +1,9 @@
 # djlogin:
-<a href=" https://loginpython.azurewebsites.net/">
+<a href="https://loginpython.azurewebsites.net/" target="_blank">
 <img src="https://github.com/baljnyam/djlogin/blob/master/img/azure-hello-world.png" alt="Azure-Hello-World"/>
 </a>
-azure-django-deployment
-
+azure-django-deployment:
+https://loginpython.azurewebsites.net/
 
 <h1> Django Login Page with Session and cookies </h1>
 <h2>Functions<h2>
